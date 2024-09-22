@@ -1,6 +1,6 @@
 # BigBro
 
-![BigBro](./screenshot.png)  
+<img src="screenshot.png" alt="BigBro" width="600"/>
 
 Easy to access AI assistant made by Patrick Yu.
 
