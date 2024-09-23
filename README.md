@@ -2,7 +2,7 @@
 
 <img src="screenshot.png" alt="BigBro" width="600"/>
 
-Easy to access AI assistant made by Patrick Yu.
+Easy to access AI assistant.
 
 BigBro is a chatbot app. that allows you to use LLM (Large Language Model) easily and quickly in your desktop. All of BigBro's features are available via keyboard shortcuts, so you can access it at any time while focusing on your job.
 
