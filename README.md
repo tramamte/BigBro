@@ -41,7 +41,7 @@ You can save multiple system prompts and change them at any time (`ctrl/cmd+[`, 
 |`ctrl+d`|`cmd+d`|delete|
 |`ctrl+enter`|`enter`|select|
 
-### Setting
+### Settings
 
 |Windows|macOS|Description|
 |---|---|---|
