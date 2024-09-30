@@ -20,16 +20,19 @@ You can save multiple system prompts and change them at any time (`ctrl/cmd+[`, 
 |---|---|---|---|
 |`ctrl+alt+enter`|`cmd+enter`|show BigBro|can be modified in settings| 
 
+
+
 ### Chat (Main)
 
 |Windows|macOS|Description|
 |---|---|---|
 |`esc`|`esc`|hide BigBro|
-|`ctrl+n`|`cmd+n`|new chat|
-|`ctrl+l`|`cmd+l`|history|
 |`ctrl+,`|`cmd+,`|settings|
+|`ctrl+l`|`cmd+l`|history|
+|`ctrl+n`|`cmd+n`|new chat|
 |`ctrl+[`|`cmd+[`|previous system prompt|
 |`ctrl+]`|`cmd+]`|next system prompt|
+|`ctrl+d`|`cmd+d`|detach file|
 
 ### History
 
