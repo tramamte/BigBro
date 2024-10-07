@@ -1,6 +1,6 @@
 # BigBro
 
-<img src="screenshot.png" alt="BigBro" width="600"/>
+<img src="main.png" alt="BigBro" width="600"/>
 
 Easy to access AI assistant.
 
@@ -10,7 +10,21 @@ BigBro is a chatbot app. that allows you to use LLM (Large Language Model) easil
 
 ## Multiple System Prompts
 
-You can save multiple system prompts and change them at any time (`ctrl/cmd+[`, `ctrl/cmd+]`). Create chatbot friends by setting the persona you want.
+You can save multiple system prompts and change them at any time (`ctrl/cmd+[`, `ctrl/cmd+]`). Create chatbot friends by setting the personas you want.
+
+## Chat History
+
+All chat history is saved. You can recall the previous history and continue the conversation.
+
+<img src="history.png" alt="History" width="600"/>
+
+## Tagged Messages
+
+Save BigBro's messages with tags by clicking the name.
+
+<img src="tag_set.png" alt="Tag Set" width="600"/>
+
+<img src="tag.png" alt="Tag Set" width="600"/>
 
 ## Keyboard Shortcuts
 
@@ -29,16 +43,17 @@ You can save multiple system prompts and change them at any time (`ctrl/cmd+[`, 
 |`esc`|`esc`|hide BigBro|
 |`ctrl+,`|`cmd+,`|settings|
 |`ctrl+l`|`cmd+l`|history|
+|`ctrl+t`|`cmd+t`|tagged messages|
 |`ctrl+n`|`cmd+n`|new chat|
 |`ctrl+[`|`cmd+[`|previous system prompt|
 |`ctrl+]`|`cmd+]`|next system prompt|
 |`ctrl+d`|`cmd+d`|detach file|
 
-### History
+### History & Tagged Messages
 
 |Windows|macOS|Description|
 |---|---|---|
-|`esc`|`esc`|close history|
+|`esc`|`esc`|close|
 |`ctrl+j`|`cmd+j`|down|
 |`ctrl+k`|`cmd+k`|up|
 |`ctrl+d`|`cmd+d`|delete|
