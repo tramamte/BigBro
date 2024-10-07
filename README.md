@@ -32,7 +32,7 @@ Save BigBro's messages with tags by clicking the name.
 
 |Windows|macOS|Description|Note|
 |---|---|---|---|
-|`ctrl+alt+enter`|`cmd+enter`|show BigBro|can be modified in settings| 
+|`ctrl+alt+enter`|`cmd+enter`|show|can be modified in settings| 
 
 
 
@@ -40,7 +40,7 @@ Save BigBro's messages with tags by clicking the name.
 
 |Windows|macOS|Description|
 |---|---|---|
-|`esc`|`esc`|hide BigBro|
+|`esc`|`esc`|hide|
 |`ctrl+,`|`cmd+,`|settings|
 |`ctrl+l`|`cmd+l`|history|
 |`ctrl+t`|`cmd+t`|tagged messages|
