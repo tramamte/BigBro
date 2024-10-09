@@ -1,3 +1,45 @@
+/* https://www.w3schools.com/colors/colors_picker.asp */
+/* https://angel-rs.github.io/css-color-filter-generator/ */
+
 .custom {
-  
+  /* common */
+  --bg: #50586c;
+  --fg: #dce2f0;
+  --fg-sub: #a2a2a1;
+  --alert: #ff0000;
+  --selected: #ffffff;
+  --btn-hover-bg: #ffffff;
+  --btn-hover-fg: #000000;
+  --scrollbar: rgba(34, 34, 34, 0.15);
+  --scrollbar-hover: rgba(34, 34, 34, 0.3);
+  --delete-filter: none;
+
+  /* chat view */
+  --chat-bg: var(--fg); /* default: --fg */
+  --chat-fg-input: #424242; /* default: --bg */
+  --chat-fg-list: black; /* default: --bg */
+  --logo-val-fg: #ffffff;
+  --logo-val-shadow: #000000;
+  --role-me: #647b3c;
+  --role-you: #36548e;
+  --tag-bg: #ecf0f8;
+  --tag-fg: #000000;
+  --toolbar-filter: invert(96%) sepia(1%) saturate(5734%) hue-rotate(185deg) brightness(94%) contrast(100%);
+  --logo-filter: invert(33%) sepia(13%) saturate(843%) hue-rotate(185deg) brightness(90%) contrast(82%);
+  --send-filter: brightness(0) saturate(100%) invert(51%) sepia(16%) saturate(9%) hue-rotate(75deg) brightness(95%) contrast(91%);
+  --send-filled-filter: brightness(0) saturate(100%) invert(40%) sepia(10%) saturate(3225%) hue-rotate(194deg) brightness(93%) contrast(89%);
+  --cancel-filter: brightness(0) saturate(100%) invert(56%) sepia(37%) saturate(6184%) hue-rotate(330deg) brightness(100%) contrast(99%);
+  --copy-filter: none;
+
+  /* tagged view */
+  --filter-input-bg: #ccd2e4;
+  --filter-input-fg: #000000;
+
+  /* settings view */
+  --radio: #adefd1;
+  --link: #73c4e9;
+  --group-border: #606981;
+  --input-border: #8e8e8e;
+  --input-bg: #606981;
+  --add-close-filter: invert(90%);
 }
